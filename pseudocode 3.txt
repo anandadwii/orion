@@ -1,0 +1,6 @@
+pseudocode mencari bilangan genap atau ganjil
+n ← input bilangan 
+if ( n % 2 = 0)
+print (bilangan ini genap)
+else 
+print(bilangan ini ganjil) 

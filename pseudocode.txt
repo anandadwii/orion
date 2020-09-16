@@ -1,0 +1,52 @@
+pseudo code contoh 1
+do
+r ← m % n 
+m ← n 
+n ← r
+return m
+while n =! 0
+
+contoh 2
+algoritma 1:
+definisikan luas, tinggi, alas
+masukkan nilai luas=0
+masukkan nilai tinggi=25
+masukkan nilai alas=30
+luas=tinggi*alas/2
+print(luas)
+
+pseudocode:
+var luas, tinggi alas
+luas=0
+tinggi=25
+alas=30
+
+luas=tinggi*alas/2
+
+print(luas)
+
+algoritma 2:
+definisikan nilai luas=0 
+definisikan nilai tinggi=25
+definisikan nilai alas=30
+
+kalau nilai luas != 0 maka kembali ke nilai 0,
+jika tidak jalankan step selanjutnya
+definisikan rumus luas segitiga 
+	luas=1/2*alas*tinggi
+print(luas)
+
+return 0;
+
+pseuddo code:
+luas=0
+tinggi=25
+alas=30
+
+while
+luas=0 
+do
+luas=1/2*alas roban*tinggi
+print(luas)
+
+return 0;
